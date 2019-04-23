@@ -1,2 +1,2 @@
-# rust_blockchain
+# Rust Blockchain example
 Simple blockchain written in Rust. 
